@@ -15,7 +15,7 @@
 - Whimsical sapphic fantasy fiction, inspired by studio Ghibli films, fairytales.
 - Cyberpunk fiction, attempting to incorporate poetry into/inbetween the story. What does poetry written in a dystopian future look like? how do people write in 100 years? how do the styles differ from now and from others within the society?
 - Jazz vampires?
-- Body horror/lovecraftian stories as alllegory for class conflict, transness, change. Inspired by Junji Ito, Hidetaki Miyozaki, HP. Lovecraft, John Carpenter, David Cronenberg.
+- Body horror/lovecraftian stories as alllegory for class conflict, transness, change. Inspired by Junji Ito, Hideteki Miyazaki, HP. Lovecraft, John Carpenter, David Cronenberg.
  
 ### What tools or techniques do you you use?
 
