@@ -17,7 +17,7 @@
 - Jazz vampires?
 - Body horror/lovecraftian stories as alllegory for class conflict, transness, change. Inspired by Junji Ito, Hideteki Miyazaki, HP. Lovecraft, John Carpenter, David Cronenberg.
  
-### What tools or techniques do you you use?
+### What tools or techniques do you you use? Why?
 
 - pen and paper for poetry allows me to be changable/malliable. Its easy to cross out a word, draw an arrow indicating a change in structure, Etc.
 - Word document for fiction. Multiple versions for each pass of an edit.
