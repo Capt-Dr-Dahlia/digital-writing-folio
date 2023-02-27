@@ -19,4 +19,7 @@
  
 ### What tools or techniques do you you use?
 
-Pen and paper for poetry allows me to be changable/malliable. Its easy to cross out a word, draw an arrow indicating a change in structure, Etc.
+- pen and paper for poetry allows me to be changable/malliable. Its easy to cross out a word, draw an arrow indicating a change in structure, Etc.
+- Word document for fiction. Multiple versions for each pass of an edit.
+- Changing the text font on occasion can help to see the writing in a slightly new lens.
+- Listen to music on headphones. No lyrics, as words will disract. If neccisary i will use heavy death metal or white noise as they are the best at blocking out sensory distractions and forcing my mind to narrow in and focus.
