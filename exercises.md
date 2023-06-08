@@ -36,6 +36,7 @@
 
 ## Week 2
 
+
 ### What elements of the works ("Taroko Gorge", "The Gathering Cloud", "First Draft of the Revolution", and "Shade") do you read?
 
 - I read The popup areas with additional information
@@ -48,3 +49,11 @@
 
 - More interactive, and able to include other forms of media such as music and motion/film. The automated animated elements create a sense of momentum and change that involve the reader.
 
+
+### Create a constraint (a restriction on your writing such as not using the letter "e" or a set number of syllables)
+
+Each line must adhere to a predetermined and randomised amount of syllables.
+
+### Create a process (a process for creating writing such as picking the third word of each page of a book)
+
+Every third noun is replaced by an option in the thesaurus for that word.
