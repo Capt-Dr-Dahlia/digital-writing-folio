@@ -32,3 +32,19 @@
 - Most poems are written to fit on a single A4 sheet of paper.
 - Most fiction is written to conform to chapters of a book.
 - The ease and pervasiveness of spell check and grammar check encourage me to under-write and can be distracting from getting a lot of writing out.
+
+
+## Week 2
+
+### What elements of the works ("Taroko Gorge", "The Gathering Cloud", "First Draft of the Revolution", and "Shade") do you read?
+
+- I read The popup areas with additional information
+
+### How are those elements meaningful?
+
+- Like footnotes in print writing, they allows the writer to convey additional information without taking the reader out of the pages/windows tone and context.
+
+### How are the works read differently from print literature? How is electronic literature different from print literature? What are the qualities of the works we might consider as qualities of electronic literature?
+
+- More interactive, and able to include other forms of media such as music and motion/film. The automated animated elements create a sense of momentum and change that involve the reader.
+
