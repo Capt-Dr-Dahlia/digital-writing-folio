@@ -57,3 +57,18 @@ Each line must adhere to a predetermined and randomised amount of syllables.
 ### Create a process (a process for creating writing such as picking the third word of each page of a book)
 
 Every third noun is replaced by an option in the thesaurus for that word.
+
+## Taroko Gorge Remix
+
+### What aspects of the remix are the same?
+
+The way the words are generated and flow down the screen remain the same.
+
+### What aspects of the remix are different?
+
+The words themselves and the tone.
+
+### Is the remix successful (why or why not)?
+
+not really, it didn;t really have the same synergy and coherency of words and mood due to less thought out word choices.
+
