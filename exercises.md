@@ -1,4 +1,4 @@
-# Exercises
+# Written Q&A Exercises
 
 ## Week 1
 
