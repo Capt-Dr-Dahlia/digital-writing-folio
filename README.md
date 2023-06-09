@@ -1,5 +1,5 @@
 # digital-writing-folio
 
 - [Readings](readings.md)
-- [Exercises](exercises.md)
+- [Exercises](Exercises.md)
 - [Written Q&A Exercises](Written-Q&A-Exercises.md)
