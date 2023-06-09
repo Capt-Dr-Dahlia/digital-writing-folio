@@ -72,14 +72,10 @@ The words themselves and the tone.
 
 not really, it didn;t really have the same synergy and coherency of words and mood due to less thought out word choices.
 
-[Glitch Project - Dadaist](Glitch Project-Dadaist.md)
-
-[Glitch Project - N+7](Glitch Project-N+7.md)
-
-[Simple Website](Building s Simple Website.md)
-
-[Bitsy gane 1](Bitsy game 1.md)
-
-[Simple Keyframe Animation](Simple Ketframe Animation.md)
+- [Glitch Project - Dadaist](Glitch Project-Dadaist.md)
+- [Glitch Project - N+7](Glitch Project-N+7.md)
+- [Simple Website](Building s Simple Website.md)
+- [Bitsy gane 1](Bitsy game 1.md)
+- [Simple Keyframe Animation](Simple Ketframe Animation.md)
 
 
