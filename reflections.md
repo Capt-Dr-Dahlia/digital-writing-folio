@@ -8,3 +8,7 @@ The technical elements of this course are probably the most difficult. Even thou
 
 ### Note taking
 Since alot of my readings were done at home, i took all my notes on paper and now regret it as i have to slowly type them up.
+
+### Colour quick guide for html
+
+[html-font-colours](html-font-colours)
