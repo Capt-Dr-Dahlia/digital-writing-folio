@@ -6,4 +6,5 @@
 - [Simple-Website](Building-a-Simple-Website.md)
 - [Bitsy-game-1](Bitsy-game-1.md)
 - [Simple-Keyframe-Animation](Simple-Keyframe-Animation.md)
+- [Background-Image-css-Animation.md](Background-Image-css-Animation.md)
 - [We-Walk-to-You](we-walk-to-you.md)
