@@ -24,6 +24,8 @@ Decided to cut two pathways from the twine story. The 'charismatic' and 'lawyer'
 
 Cutting all photos from the project. I had aimed to take a series of photo's to include with each pathway, often they might serve as clues for later sections. However I have only been able to capture five photos that fit the tone and quality of each other, making their appearance in the fiction inconsistent. For reasons explained in notes taken in week 2 (the next reflection) i did chose not to utilise ai generated art.
 
+Later dropped the religous/pagan route. Sad to see this go, but after discussing with a friend, i probably need to do more research on pagan beliefs and cultures before i include them.
+
 
 ### Ai generated art and why it can fuck right off.
 
