@@ -30,3 +30,6 @@ Now this process and these products could be useful under different economic cir
 
 - 2. Stolen labour value
 Most importantly, ai art is trained on, and often blatently copies the art of, multitudes of artists online. To use it for my own benefit -- financial, or in this case educational marks -- would be to exploit and steal the labour of talented artists whithout compensating them for their contributions to my own work. How much better will my twine story be with pictures? and do i have the moral right to gain that increase in marks thanks to a one way collaboration with an artists who work i stole/used ai to mimic or train off.
+
+
+Ai art and writing is a tool, and could, in better circumstances, be of huge benefit to the art community. But its current implementation as a tool is within the wrong socioeconomic hands.
