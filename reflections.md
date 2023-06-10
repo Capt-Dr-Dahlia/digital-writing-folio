@@ -30,14 +30,12 @@ Cutting all photos from the project. I had aimed to take a series of photo's to 
 I do not like ai generated art, and refuse to use it in my work. There are 2 reasons as follows:
 
 - 1. It's not art. 
-- 
 Art is not just a product.
 Obviously under our current and previous organisations of the economy it must needs serve a product as part of its function. However, half of the point of art, is the process, the making, the creative process, which evokes the emotional qualitites of its creator and instills some measure of fulfilment. Ai does not gain any sense of value or satisfaction from the creation of art, and until it becomes sentient enough to do so, it is not making art, it is making products.
 
 Now this process and these products could be useful under different economic circumstances. If they helped people with their labour, making their jobs easier and faster -- and to some extent this is currently tru (though most likely not for long). I have a few friends who work in advertising and who utilise ai generated art and writing to make their work more productive and less labourious. However, for the most part, ai art simply replaces the jobs of artists. In a different economic model this might be beneficial, at handling undesirable labour while we focus on our own persuits. But as it stands, it is us doing 9-5 jobs and manual labour, while computers sit back and make art -- a rather backwards setup. 
 
 - 2. Stolen labour value.
-- 
 Most importantly, ai art is trained on, and often blatently copies the art of, multitudes of artists online. To use it for my own benefit -- financial, or in this case educational marks -- would be to exploit and steal the labour of talented artists whithout compensating them for their contributions to my own work. How much better will my twine story be with pictures? and do i have the moral right to gain that increase in marks thanks to a one way collaboration with an artists who work i stole/used ai to mimic or train off.
 
 
