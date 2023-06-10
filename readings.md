@@ -39,3 +39,5 @@ As someone who is still very new to the medium of hypertect fiction, and certain
 Chapter Author: Short, Emily
 
 Super interesting -- in theory. The possibilities seem really creative and 'outside the box.' However, wiuthout having played the game, i worry it would fall into the trap that alot of point and click adventure games have in the past. Many of these peices of fiction become excercises in combining every object with evey other object. Try the wrench with the paintball gun, try the wrench on Judy, try the wrench with the bowling ball. Click on every single thing on screen, then use the hat in your inventory on every single thing on screen - an excercise in: guess what the writer was thinking.
+
+A reader may be an endless font of creativity, but they are not an endless font of patience.
